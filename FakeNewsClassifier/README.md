@@ -1,6 +1,7 @@
 # Kaggle Challenge - Fake News
 ## Build a system to identify unreliable news articles
 *	Develop a machine learning program to identify when an article might be fake news
+
 **Dataset URL:** https://www.kaggle.com/c/fake-news/
 
 ## Steps:
