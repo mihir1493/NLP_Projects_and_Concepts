@@ -12,16 +12,10 @@
 
 ### MultinomialNB Classifier Algo
 ![alt text](https://github.com/mihir1493/NLP_Projects_and_Concepts/blob/master/FakeNewsClassifier/Capture_m.JPG "MultinomialNB Classifier Algo")
-Results:
-accuracy:   0.900
-Confusion matrix, without normalization
 
 ### Passive Agressive Classifier Algo
 ![alt text](https://github.com/mihir1493/NLP_Projects_and_Concepts/blob/master/FakeNewsClassifier/Capture_p.JPG "MultinomialNB Classifier Algo")
-Results:
-accuracy:   0.921
-Confusion matrix, without normalization
- 
+
 ### Multinomial With hyperparameter tuning
 Performing hyperparameter tuning on the data, we obtain the best result using the following parameter:
 Results:
